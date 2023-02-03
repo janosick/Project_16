@@ -7,4 +7,4 @@ Car.prototype.logName = function () {
 
 exports = {
     Car: Car
-}
+};
